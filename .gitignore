@@ -1,4 +1,5 @@
 Notebooks/*.out
 Notebooks/models/*
+Notebooks/results_with_scaling_default/*
 lowshot/*
 *.sqlite3
