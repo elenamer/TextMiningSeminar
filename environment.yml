@@ -1,4 +1,4 @@
-name: embeddings
+name: tm-seminar-env-elena
 channels:
   - pytorch
   - conda-forge
