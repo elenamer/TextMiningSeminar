@@ -1,5 +1,6 @@
 Notebooks/*.out
 Notebooks/models/*
+Notebooks/features/*
 Notebooks/results_with_scaling_default/*
 Notebooks/.ipynb_checkpoints/*
 lowshot/*
